@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi,i'm Shrija.<br>I'm currently working on improving my programming fundamentals and building small software projects.<br>I'm looking to collaborate on beginner-friendly software or web development projects.<br>I'm looking for help with backend development and real-world project practices.<br>I'm currently learning Data Structures & Algorithms and advanced python.<br>Ask me about Python, basic web development, and Git/GitHub.<br>
+Hi, I'm Shrija.<br>I'm currently working on improving my programming fundamentals and building small software projects.<br>I'm looking to collaborate on beginner-friendly software or web development projects.<br>I'm looking for help with backend development and real-world project practices.<br>I'm currently learning Data Structures & Algorithms and advanced python.<br>Ask me about Python, basic web development, and Git/GitHub.<br>
 
 
 ## 🌐 Socials:
